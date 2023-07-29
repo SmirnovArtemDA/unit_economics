@@ -1,2 +1,4 @@
 # unit economics
-Расчет для компании unit-экономику 
+Модель unit-экономики для компании Incpectrum clinic
+
+
